@@ -30,7 +30,7 @@ export default function Sidebar() {
       <header className="mobile-header">
         <div className="mobile-logo">
           <span className="logo-icon">🛍️</span>
-          <span>ShopAdmin</span>
+          <span>NexStore</span>
         </div>
 
         <button
@@ -54,7 +54,7 @@ export default function Sidebar() {
       >
         <div className="sidebar-logo">
           <span className="logo-icon">🛍️</span>
-          <span>ShopAdmin</span>
+          <span>NexStore</span>
         </div>
         <p className="sidebar-heading">MAIN MENU</p>
 
