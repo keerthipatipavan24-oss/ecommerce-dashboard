@@ -389,6 +389,12 @@
   min-width: 0;
 }
 
+.product-form-row {
+  display: flex;
+  gap: 18px;
+  width: 100%;
+}
+
 .product-form-group label {
   font-size: 14px;
   font-weight: 600;
